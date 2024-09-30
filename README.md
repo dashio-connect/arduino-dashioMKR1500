@@ -28,3 +28,7 @@ For previous releases, please refer to <a href="https://github.com/dashio-connec
 ### 1.2.0 (30 September 2024)
 
 - Release to Arduino library
+
+### 1.2.1 (1 October 2024)
+
+- Updated library properties
