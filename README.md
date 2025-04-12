@@ -25,10 +25,10 @@ The **Dash** app is free and available for both Apple and Android devices. Use i
 
 For previous releases, please refer to <a href="https://github.com/dashio-connect/arduino-dashio">github.com/dashio-connect/arduino-dashio</a>, which is now obsolete.
 
-### 1.2.0 (30 September 2024)
-
-- Release to Arduino library
-
 ### 1.2.1 (1 October 2024)
 
 - Updated library properties
+
+### 1.2.0 (30 September 2024)
+
+- Release to Arduino library
